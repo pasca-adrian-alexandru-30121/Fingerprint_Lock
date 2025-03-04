@@ -4,8 +4,8 @@ This project involves designing and building a smart lock system that is control
 
 ## Components 
 
--[Fingerprint sensor]
--[Selenoid lock 12V]
--[Arduino Uno]
--[2 9V batteries]
+- Fingerprint sensor
+- Selenoid lock 12V
+- Arduino Uno
+- 2 9V batteries
 
